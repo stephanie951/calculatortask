@@ -1,2 +1,2 @@
 # calculatortask
-making calculator with javascript using prompt and alert
+https://stephanie951.github.io/calculatortask/
